@@ -1,2 +1,2 @@
-# example-LAS-source
+# Example LAS source
 An example source for LAS
