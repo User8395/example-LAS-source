@@ -28,7 +28,7 @@ Example `info.json`:
 {
     "type": "info",
     "name": "Example LAS Source",
-    "description": "An example source for LAS",
+    "description": "An example source for LAS"
 }
 ```
 |    Property     |       Description      | Allowed values |
