@@ -49,9 +49,9 @@ Example `apps.json`
 ```
 |    Property     |                                  Description                                    | Allowed values |
 |-----------------|---------------------------------------------------------------------------------|----------------|
-|  `hello-world`  | Title must contain app name and value must contain link to app's git repository |      any       |
+|  `hello-world`  | Title must contain app name and value must contain link to app's Git repository |      any       |
 
 
 
 ## TODO
-Incomplete, finishing later on...
+Incomplete, finishing later on
