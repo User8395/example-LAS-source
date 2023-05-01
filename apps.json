@@ -1,6 +1,6 @@
 {
     "apps": [{
-        "name": "Hello world app",
+        "name": "Hello world",
         "description": "A simple hello world app",
         "url": "auto"
     }]
