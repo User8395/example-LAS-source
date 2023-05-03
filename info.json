@@ -1,4 +1,5 @@
 {
     "name": "Example LAS Source",
+    "id": "example-las-source",
     "description": "An example source for LAS"
 }
