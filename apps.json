@@ -2,8 +2,9 @@
     "apps": [{
         "name": "Hello world",
         "id": "example-las-source/hello-world",
-        "description": "A simple hello world app",
+        "shortDescription": "a simple app",
+        "description": "this is a simple app from the Example LAS Source (https://github.com/User8395/example-las-source)",
         "version": "0.0.0",
-        "url": "auto"
+        "author": "Qasim Khan"
     }]
 }

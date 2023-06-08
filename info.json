@@ -1,5 +1,6 @@
 {
     "name": "Example LAS Source",
     "id": "example-las-source",
-    "description": "An example source for LAS"
+    "description": "An example source for LAS",
+    "maintainer": "Qasim Khan"
 }
