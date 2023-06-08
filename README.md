@@ -17,7 +17,5 @@ This file contains basic source information.
 ### `apps.json`
 This file contains a list of every app and where they can be downloaded from.
 
-If the `url` is set to `auto`, LAS will then automatically download the app from `/apps/app.lapp`, `/` being the root of the source.
-
 ## Making your own source
-TODO
+TODO    
