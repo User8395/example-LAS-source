@@ -1,10 +1,20 @@
 {
-    "apps": [{
-        "name": "Hello world",
-        "id": "example-las-source/hello-world",
-        "shortDescription": "a simple app",
-        "description": "this is a simple app from the Example LAS Source (https://github.com/User8395/example-las-source)",
-        "version": "0.0.0",
-        "author": "Qasim Khan"
-    }]
+  "apps": [
+    {
+      "name": "Hello world",
+      "id": "User8395/hello-world",
+      "shortDescription": "a test app",
+      "description": "this is a test app from the Example LAS Source (https://github.com/User8395/example-las-source)",
+      "version": "0.0.1",
+      "author": "Qasim Khan"
+    },
+    {
+      "name": "Hello again world",
+      "id": "User8395/hello-again-world",
+      "shortDescription": "another test app",
+      "description": "this is another test app from the Example LAS Source (https://github.com/User8395/example-las-source)",
+      "version": "0.0.1",
+      "author": "Qasim Khan"
+    }
+  ]
 }
